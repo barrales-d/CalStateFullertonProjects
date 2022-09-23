@@ -1,1 +1,1 @@
-# CalStateFullertonProjects
+# Cal State Fullerton Projects

@@ -3,7 +3,7 @@ __*Book Management System*__
 > 
 > It explores the disavantages and benefits of using certain data structures: vector, double linked list, single linked list, binary search tree, hash table. 
 
-__*Math Vector2D*__
+__*Math Vector*__
 > A data structure I created when I was in Math 270B which introduced me to mathematical vectors.
 > 
 > Vector2d is a template struct that will create a 2d vector and you can do basic vector math with scalars, dot products, and more.

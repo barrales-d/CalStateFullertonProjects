@@ -1,1 +1,1 @@
-## Operating Systems -> projects from my CPSC 351 class!
+# Operating Systems -> projects from my CPSC 351 class!
